@@ -4,6 +4,7 @@
 - 💞️ I’m looking to collaborate on software and web development
 - 📫 How to reach me my instagram https://www.instagram.com/whoisfelipe.dev/
 - ➡️ And my Linkedin https://www.linkedin.com/in/felipe-borges-de-oliveira-verissimo-810b94b7/
+- 🌐 Twitter -> https://twitter.com/whereisfelipe23
 
 <!---
 Felbrou/Felbrou is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
