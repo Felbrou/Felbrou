@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Felipe Verissimo
 - 👀 c | c++ | c# | ruby & rails | python | javascript | solidity
 - 🌱 I’m currently learning, Harvard University CS50 Introdution to Computer Sciences and future Bachelor Degree in Software Engineer
-- 💞️ I’m looking to collaborate on software and web development
+- 💞️ I’m looking to collaborate on software development! In Ruby, Python, C or Java. And learn more about cybersecurity and database.
 - 📫 How to reach me my instagram https://www.instagram.com/whoisfelipe.dev/
 - ➡️ And my Linkedin https://www.linkedin.com/in/felipe-borges-de-oliveira-verissimo-810b94b7/
 - 🌐 Twitter -> https://twitter.com/whereisfelipe23
