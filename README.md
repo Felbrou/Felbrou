@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Felipe Verissimo
-- 👀  ruby & rails | python | javascript | solidity | c | c++ | c# | elasticsearch | SQL
+- 👀  ruby & rails | python | javascript | solidity | c | SQL
 - 📅🧑‍🔬 Data & System Analyst 
 - 🌱 I’m currently learning, Harvard University CS50 Introdution to Computer Sciences and future Bachelor Degree in Software Engineer
 - 💞️ I’m looking to collaborate on software development! In Ruby, Python, C or Java. And learn more about cybersecurity and database.
