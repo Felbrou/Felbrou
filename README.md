@@ -1,5 +1,6 @@
 - 👋 Hi, I’m Felipe Verissimo
-- 👀  ruby & rails | python | javascript | solidity | c | SQL
+- 📺 My Youtube Channel -> https://www.youtube.com/channel/UCf-Ct9LQ7sVsT58nE4-2thQ
+- 👀  SAS | ruby on rails | python | MySql | PostgreSQL
 - 📅🧑‍🔬 Data & System Analyst 
 - 🌱 I’m currently learning, Harvard University CS50 Introdution to Computer Sciences and future Bachelor Degree in Software Engineer
 - 💞️ I’m looking to collaborate on software development! In Ruby, Python, C or Java. And learn more about cybersecurity and database.
