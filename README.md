@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Felipe Verissimo
 - 📺 My Youtube Channel -> https://www.youtube.com/channel/UCf-Ct9LQ7sVsT58nE4-2thQ
-- 👀  SAS | ruby on rails | python | MySql | PostgreSQL
+- 👀 python | ruby on rails
 - 📅🧑‍🔬 Data & System Analyst >> Data Engineer
 - 🌱 I’m currently graduating in Software Engineering, just finish Harvard University CS50 Introdution to Computer Science.
 - 💞️ I’m looking to collaborate on software development! In Ruby, Python, C or Java. And learn more about cybersecurity and database.
