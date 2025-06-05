@@ -3,7 +3,7 @@
 - 👀 python | ruby on rails
 - 📅🧑‍🔬 Data & System Analyst >> Data Engineer
 - 🌱 I’m currently graduating in Software Engineering, just finish Harvard University CS50 Introdution to Computer Science.
-- 💞️ I’m looking to collaborate on software development! In Ruby, Python, C or Java. And learn more about cybersecurity and database.
+- 💞️ I’m looking to collaborate on software development! In Ruby, Python. And learn more about cybersecurity and database.
 - 📫 How to reach me my instagram https://www.instagram.com/ver1ssim0/
 - ➡️ And my Linkedin https://www.linkedin.com/in/felipe-borges-de-oliveira-verissimo-810b94b7/
 - 🌐 Twitter -> https://twitter.com/FWhoisfelipe
